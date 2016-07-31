@@ -1,0 +1,13 @@
+c:\users\samsung\documents\visual studio 2012\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+c:\users\samsung\documents\visual studio 2012\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\bin\Debug\ilk_veritabani.accdb
+c:\users\samsung\documents\visual studio 2012\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+c:\users\samsung\documents\visual studio 2012\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+c:\users\samsung\documents\visual studio 2012\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2012\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form1.resources
+c:\users\samsung\documents\visual studio 2012\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2012\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2012\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+c:\users\samsung\documents\visual studio 2012\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
+E:\STAJ\Staj Proje\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+E:\STAJ\Staj Proje\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+E:\STAJ\Staj Proje\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
